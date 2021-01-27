@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527307154623",
+    "firebase_url": "https://unionportal-5809b.firebaseio.com",
+    "project_id": "unionportal-5809b",
+    "storage_bucket": "unionportal-5809b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527307154623:android:1feffff1b21cc24d0d520a",
+        "android_client_info": {
+          "package_name": "com.mohamednajeb.main.besnesconcebt.unionportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527307154623-ksmkpfl706j961rh4e2p1c5jmje4pok1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamednajeb.main.besnesconcebt.unionportal",
+            "certificate_hash": "66d0099d5bbe2da429b2dc19a21d3e27906598dd"
+          }
+        },
+        {
+          "client_id": "527307154623-reisreagcujcm8n17jlkeh8t3qo1ej1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG6phA6CXd0YuxUlFjotwQXQzqbJXMH6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527307154623-reisreagcujcm8n17jlkeh8t3qo1ej1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

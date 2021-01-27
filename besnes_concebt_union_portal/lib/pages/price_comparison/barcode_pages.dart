@@ -1,0 +1,5 @@
+enum BarcodeStare {
+  PRICE_COMPARISON,
+  PRODUCT_DETAILS,
+  MAIN_BARCODE,
+}
